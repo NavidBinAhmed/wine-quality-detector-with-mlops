@@ -23,7 +23,7 @@ list_of_files = [
     "main.py",
     "app.py",
     "Dockerfile",
-    "requirements.py",
+    "requirements.txt",
     "setup.py",
     "research/trials.py",
     "templates/index.html"
