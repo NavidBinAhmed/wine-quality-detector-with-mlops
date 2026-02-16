@@ -1,0 +1,4 @@
+[2026-02-15 18:59:36,681: INFO: main: Starting the main file to test the logger]
+[2026-02-15 19:01:11,339: INFO:- main: Starting the main file to test the logger]
+[2026-02-15 19:01:28,189:- INFO:- main: Starting the main file to test the logger]
+[2026-02-15 19:01:46,669:- INFO:- main:- Starting the main file to test the logger]
