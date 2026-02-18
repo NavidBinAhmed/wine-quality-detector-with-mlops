@@ -1,4 +1,4 @@
-# wine-quality-detector-with-mlops
+# Wine quality detector with MLOps
 
 A wine quality detector as complete machine learning feature with operations (MLOps) | using ML Flow | HTML, CSS | Render ! 
 
