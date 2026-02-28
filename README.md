@@ -27,7 +27,7 @@ liqor-quality-app/
 │   │   └── App.tsx          # Main React component
 │   ├── Dockerfile           # Frontend containerization
 │   └── package.json         # Frontend dependencies
-├── wine-quality-detector/   # Specifically, this MLOps specific directory
+├── wine-quality-detector/   # Specifically, this MLOps pipeline directory
 │   ├── research/            # Jupyter Notebook experimental EDA and modeling
 │   ├── src/                 # Production-grade ML scripts
 │   │   ├── components/      # Data ingestion and cleaning
@@ -37,6 +37,7 @@ liqor-quality-app/
 │   ├── params.yaml/         # Parameters for tuning ML model performance
 │   └── app.py/              # integrated to UI and main.py 
 ├── docker-compose.yml       # Orchestrates all services for dev/prod
+├── infra/                   # Infrastructure as Code (Terraform, Kubernetes manifests)
 ├── .env                     # Global environment variables
 └── README.md
 
